@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://sorakazi.github.io/goit-react-hw-08-phonebook/",
-  "dependencies": {
+  "dependencies": {dfsds
     "@emotion/react": "^11.13.0",
     "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^5.16.4",
